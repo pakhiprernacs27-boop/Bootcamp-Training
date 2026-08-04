@@ -1,3 +1,4 @@
+//Build Array from Permutation
 //ans[i] = nums[nums[i]]-Formula
 class Solution {
     public int[] buildArray(int[] nums) {

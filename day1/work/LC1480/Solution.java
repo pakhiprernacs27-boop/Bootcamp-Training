@@ -1,3 +1,4 @@
+//running sum of 1D array
 class Solution {
     public int[] runningSum(int[] nums) {
 

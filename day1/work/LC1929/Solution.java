@@ -1,3 +1,4 @@
+//concatenation of an array
 class Solution {
     public int[] getConcatenation(int[] nums) {
 
